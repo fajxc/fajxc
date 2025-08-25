@@ -1,13 +1,13 @@
-
 <p align="left">
-  <a href="https://www.linkedin.com/in/fajxc/" target="_blank">
+  <a href="https://www.linkedin.com/in/fajarkkh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <span style="margin: 0 6px; color: #555;">|</span>
+  <span style="display:inline-block; width:1px; height:20px; background-color:#444; margin:0 8px; vertical-align:middle;"></span>
   <a href="mailto:fajarkakakhel@gmail.com">
     <img src="https://img.shields.io/badge/Email-Connect-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 
 
