@@ -1,16 +1,29 @@
-## Hi there 👋
+
+<p>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&labelColor=0A66C2&style=for-the-badge" />
+  </a>
+  <a href="mailto:YOUR.EMAIL@EXAMPLE.COM">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white&labelColor=D14836&style=for-the-badge" />
+  </a>
+  <a href="https://YOUR-SITE-OR-CARRD-OR-NOTION">
+    <img src="https://img.shields.io/badge/Contact-Form-4A90E2?style=for-the-badge" />
+  </a>
+</p>
+
+
+<div align="left">
+  
+### Most Used Languages
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=fajxc&hide=html,scss,css&layout=compact&langs_count=8&card_width=420&theme=tokyonight"
+  alt="Top languages for fajxc"
+/>
+
+</div>
 
 <!--
-**fajxc/fajxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img
+  src="https://github-readme-stats.vercel.app/api?username=fajxc&show_icons=true&theme=tokyonight"
+/>
 -->
