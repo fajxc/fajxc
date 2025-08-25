@@ -14,7 +14,6 @@
 
 <div align="left">
   
-### Most Used Languages
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs?username=fajxc&layout=compact&card_width=300&bg_color=000000&title_color=ffffff&text_color=ffffff"
   alt="Top languages for fajxc"
