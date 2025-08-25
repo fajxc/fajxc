@@ -1,15 +1,14 @@
 
-<p>
-  <a href="https://www.linkedin.com/in/fajarkkh/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&labelColor=0A66C2&style=for-the-badge" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/fajxc/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  <span style="margin: 0 6px; color: #555;">|</span>
   <a href="mailto:fajarkakakhel@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white&labelColor=D14836&style=for-the-badge" />
-  </a>
-  <a href="https://YOUR-SITE-OR-CARRD-OR-NOTION">
-    <img src="https://img.shields.io/badge/Contact-Form-4A90E2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Email-Connect-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 
 <div align="left">
