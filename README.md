@@ -1,16 +1,13 @@
-<div style="display: flex; align-items: center; gap: 8px;">
-
+<p align="left">
   <a href="https://www.linkedin.com/in/fajarkkh/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="20" />
   </a>
-
-  <div style="width:1px; height:20px; background-color:#444;"></div>
-
+  <img src="https://via.placeholder.com/1x20/444444/444444" width="1" height="20" />
   <a href="mailto:fajarkakakhel@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Connect-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Connect-D14836?style=flat-square&logo=gmail&logoColor=white" height="20" />
   </a>
+</p>
 
-</div>
 
 
 
